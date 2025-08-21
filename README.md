@@ -35,11 +35,17 @@ Pandas, NumPy, Matplotlib
 # Usage
 
 Ensure you have all of these following libraries installed to run this program
+
 streamlit
+
 scikit-learn
+
 pandas
+
 numpy
+
 matplotlib
+
 joblib
 
 After installing all of the libraries run this in your terminal to run the Streamlit app:

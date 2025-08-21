@@ -52,8 +52,5 @@ After installing all of the libraries run this in your terminal to run the Strea
 
 streamlit run demo.py
 
-
-Open the provided local URL in your browser (usually http://localhost:8501).
-
-Upload a CSV file, select a target column, and start training models.
+Then upload a CSV file, select a target column, and start training models.
 

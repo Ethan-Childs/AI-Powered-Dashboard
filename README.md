@@ -50,7 +50,7 @@ joblib
 
 After installing all of the libraries run this in your terminal to run the Streamlit app:
 
-streamlit run demo.py
+streamlit run app.py
 
 Then upload a CSV file, select a target column, and start training models.
 
